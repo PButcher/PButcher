@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Pete.
+
+I'm a Research Officer in Visualization working with the [Visualization, Data, Modelling and Graphics Research Group](https://www.bangor.ac.uk/computer-science-and-electronic-engineering/research/vdgm.php.en) at Bangor University in North Wales, UK.
+
+More here soon!
 
 <!--
 **PButcher/PButcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
