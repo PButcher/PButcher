@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Pete.
 
-I'm a Postdoc with the [Immersive Environments Lab](https://bangor-iel.github.io) at Bangor University in North Wales, UK.
+I'm a Lecturer in Human Computer Interaction with the [Immersive Environments Lab](https://bangor-iel.github.io) at Bangor University in North Wales, UK.
 
 <!--
 **PButcher/PButcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
