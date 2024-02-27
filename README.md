@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Pete.
 
-I'm a Lecturer in Human Computer Interaction at [Bangor University](https://bangor.ac.uk) in North Wales, UK. I'm working with the [Immersive Environments Lab](https://bangor-iel.github.io), specialising in Immersive Analytics and WebXR.
+I'm a Lecturer in Human Computer Interaction at [Bangor University](https://bangor.ac.uk) in North Wales, UK. I'm working with the [XReality, Visualization and Analytics](https://xrvalab.github.io) Lab, specialising in Immersive Analytics and WebXR.
 
 <!--
 **PButcher/PButcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
